@@ -1,5 +1,5 @@
 # SPELLING SLOTH
-#### Video Demo:  <a href="https://www.youtube.com/watch?v=QCqkPZuwhIU">Watch a demonstration of the app here</a>
+#### Video Demo:  <a href="https://www.youtube.com/watch?v=QCqkPZuwhIU" target="_blank">Watch a demonstration of the app here</a>
 #### Description:
 
 #### Overview and features
